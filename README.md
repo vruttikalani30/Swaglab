@@ -1,4 +1,4 @@
-# Selenium Automation Framework
+# Selenium with Java Automation Framework
 
 This is an automation framework created using Selenium with Java, TestNG, and Maven. This framework can be used to automate web applications and run tests efficiently.
 
