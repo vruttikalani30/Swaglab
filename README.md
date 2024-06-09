@@ -91,14 +91,3 @@ public class LoginTest extends BaseTest {
 In your terminal or IDE, run:
 mvn test
 
-
-
-
-
-Swaglab website Automation: https://www.saucedemo.com/
-
-I've made this automation framework using Selenium with Java, TestNG & Maven.
-
-Hope you find it as expected. 😊
-
-Happy Testing! 🚀
