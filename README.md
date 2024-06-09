@@ -52,7 +52,7 @@ The project follows the standard Maven project structure:
 - `src/test/java`: Contains the test cases.
 - `pom.xml`: Maven configuration file.
 
-### Configurations
+## Configurations
 
 - **Properties File:**
     - Create a `config.properties` file in the `src/test/resources` directory.
@@ -84,7 +84,7 @@ public class LoginTest extends BaseTest {
         // Add assertions
     }
 }
-
+```
 
 ## Running Tests
 
