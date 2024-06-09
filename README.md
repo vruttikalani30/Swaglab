@@ -86,8 +86,10 @@ public class LoginTest extends BaseTest {
 }
 
 
-## Running
+## Running Tests
 
 In your terminal or IDE, run:
-mvn test
 
+```bash
+mvn test
+```
