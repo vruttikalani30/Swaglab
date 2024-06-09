@@ -93,3 +93,5 @@ In your terminal or IDE, run:
 ```bash
 mvn test
 ```
+
+Happy Testing! 🚀
