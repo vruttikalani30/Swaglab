@@ -7,7 +7,7 @@ This is an automation framework created using Selenium with Java, TestNG, and Ma
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
-- [Configurations](#usage)
+- [Configurations](#Configurations)
 - [Running Tests](#running-tests)
 
 
