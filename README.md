@@ -1,2 +1,7 @@
-# Swaglab
-This is the Automation framework made by using Selenium with Java, TestNG &amp; Maven 
+# Swaglab website Automation: https://www.saucedemo.com/
+
+This is the automation framework made using Selenium with Java, TestNG & Maven.
+
+Hope you find it as expected. 😊
+
+Happy Testing! 🚀
